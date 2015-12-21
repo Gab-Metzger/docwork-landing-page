@@ -1,0 +1,16 @@
+{
+  "name": "docwork-landing-page",
+  "version": "0.0.1",
+  "authors": [
+    "Gab-Metzger <gab.metzger@gmail.com>"
+  ],
+  "description": "Landing page for docwork",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "Materialize": "materialize#~0.97.4"
+  }
+}
